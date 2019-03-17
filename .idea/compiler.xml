@@ -9,5 +9,8 @@
         <module name="j7" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="j7" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -11,6 +11,7 @@ public class Masters {
         this.age = age;
     }
 
+    //мастер флаастер
     public Masters(){}
 
     public String getName() {
